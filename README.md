@@ -18,8 +18,6 @@ This drum kit web is a web application that simulates the sounds of a drum kit. 
 
 ### Features
 
-Users should be able to:
-
 - Virtual drum kit with multiple drum
 - Customize drum kit and sounds
 - Play drums using keyboard keys
