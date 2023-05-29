@@ -24,8 +24,7 @@ This drum kit web is a web application that simulates the sounds of a drum kit. 
 
 ### Screenshot
 
-<!-- ![](./design/desktop-preview.jpg) -->
-
+![](./images/drum-kit.png)
 
 ## Tech stack
 
